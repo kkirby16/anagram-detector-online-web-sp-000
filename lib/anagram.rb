@@ -12,6 +12,6 @@ class Anagram
   
 
     def match(words)
-      words.
+      words.each {|word| word.split("")
     end
 end
