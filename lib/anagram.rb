@@ -12,6 +12,6 @@ class Anagram
   
 
     def match(words)
-      binding.pry
+      words.
     end
 end
