@@ -12,6 +12,6 @@ class Anagram
   
 
     def match(words)
-      words.each {|word| word.split("").sort 
+      words.each {|word| word.split("").sort == word
     end
 end
